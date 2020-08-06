@@ -5,10 +5,15 @@ I am a Computing Science and Information Technology student from [UTC Sheffield]
 ## About me
 
  👨🏻‍💻 I love to make, break and fix things
+
  ⚙ I enjoy hacking things, automating things and pushing them to their limits
+
  💫 I try to enhance and enrich user and developer experiences
+
  💻 I am a web app enthusiast
+
  🌐 I am a REST API enthusiast
+ 
  ⚜ I am an Explorer Scout at [230th Sheffield - Gleadless Scout Group](https://www.facebook.com/230th-Sheffield-Gleadless-Scout-Group-1985242638217907)
 
 ## My experiences

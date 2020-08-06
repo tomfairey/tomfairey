@@ -24,7 +24,7 @@ I am a Computing Science and Information Technology student from [UTC Sheffield]
 
  🤖 I have also taken part in the [VEX Robotics competition](https://www.vexrobotics.com/v5/competition) every year and my tean have successfully made it to the World final in Kentucky for 2020, however the event was cancelled, and the UK national competitions every year
 
- 🐱‍💻 Every year [the UTC](https://github.com/UTCSheffield) has held it's own internal CTF, with the exception of 2020, which I have managed to win each time
+ 🏆 Every year [the UTC](https://github.com/UTCSheffield) has held it's own internal CTF, with the exception of 2020, which I have managed to win each time
 
  🥇 I succesfully completed and earned my [Chief Scout's Gold Award](https://www.scouts.org.uk/top-awards/chief-scouts-gold-award/) whilst in Air Scouts before I progressed on to Explorer Scouts
 

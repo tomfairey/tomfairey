@@ -32,4 +32,4 @@ I am a Computing Science and Information Technology student from [UTC Sheffield]
 
  🐦 My Twitter: [@MyNameIsTommo](https://twitter.com/MyNameIsTommo)
 
- 📰 My LinkedIn: [@MyNameIsTommo](https://www.linkedin.com/in/tomfairey/)
+ 📰 My LinkedIn: [tomfairey](https://www.linkedin.com/in/tomfairey/)

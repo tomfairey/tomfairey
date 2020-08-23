@@ -30,6 +30,6 @@ I am a Computing Science and Information Technology student from [UTC Sheffield]
 
 ## Find me
 
- 🐦 My Twitter: [@MyNameIsTommo](https://twitter.com/MyNameIsTommo)
+ 🐦 My Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/MyNameIsTommo?label=MyNameIsTommo&style=social)
 
- 📰 My LinkedIn: [tomfairey](https://www.linkedin.com/in/tomfairey/)
+ 📰 My LinkedIn: ![LinkedIn Follow](https://img.shields.io/badge/style-social-green?logo=linkedin&style=social&label=Thomas%20Fairey&link=https://www.linkedin.com/in/tomfairey/)

@@ -14,7 +14,7 @@ I am a Computing Science and Information Technology student from [UTC Sheffield]
 
  🌐 I am a REST API enthusiast
 
- ⚜ I am an Explorer Scout at [230th Sheffield - Gleadless Scout Group](https://www.facebook.com/230th-Sheffield-Gleadless-Scout-Group-1985242638217907)
+ ⚜ I am an Explorer Scout
 
 ## My experiences
 

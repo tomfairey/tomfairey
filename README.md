@@ -22,7 +22,7 @@ I am a Computing Science and Information Technology student from [UTC Sheffield]
 
  🗣 Every year at [the UTC](https://github.com/UTCSheffield), with the exception of 2020, I have been an attendee and organiser of the northern cyber security convention [SteelCon](https://www.steelcon.info/) at the [Sheffield Hallam University](https://www.shu.ac.uk/) campus. Each year I create and deliver teaching resources, that lead onto completing an activity, then run it as an hour-long session for the [Kids Track](https://www.steelcon.info/the-event/kids-track/)
 
- 🤖 I have also taken part in the [VEX Robotics competition](https://www.vexrobotics.com/v5/competition) every year and my tean have successfully made it to the World final in Kentucky for 2020, however the event was cancelled, and the UK national competitions every year
+ 🤖 I have also taken part in the [VEX Robotics competition](https://www.vexrobotics.com/v5/competition) every year and my team have successfully made it to the World final in Kentucky for 2020, however the event was cancelled, and the UK national competitions every year
 
  🏆 Every year [the UTC](https://github.com/UTCSheffield) has held it's own internal CTF, with the exception of 2020, which I have managed to win each time
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Computing Science and Information Technology student from [UTC Sheffield](https://github.com/UTCSheffield) [Olympic Legacy Park](https://olp.utcsheffield.org.uk)
+I am a Computing Science and Information Technology student from [UTC Sheffield](https://github.com/UTCSheffield) [Olympic Legacy Park](https://utcsheffield.org.uk/olp/)
 
 ## About me
 
